@@ -10,4 +10,4 @@ My linkedin: https://www.linkedin.com/in/sebastien-boisard/
 
 Although I have some knowledge in front-end (with [VueJS](https://vuejs.org/) and [TailWindCSS](https://tailwindcss.com/)), I prefer to work on back-end projects.  
 
-![Building Microservices book cover](/building_microservices_book.png?raw=true "Building Microservices book cover") By the way, my current bedside book is ['Building Microservices'](https://www.oreilly.com/library/view/building-microservices/9781491950340/) from Sam Newman
+By the way, my current bedside book is ['Building Microservices'](https://www.oreilly.com/library/view/building-microservices/9781491950340/) from Sam Newman
