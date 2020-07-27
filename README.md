@@ -4,7 +4,8 @@ I'm a senior developer, tech leader at [GFPTech](https://www.gfpfrance.com/).
 I'm actually looking for a new job with technical challenges.  
 My linkedin: https://www.linkedin.com/in/sebastien-boisard/
 
-:arrow_forward: One of my technical interview project in PHP => https://github.com/SebastienBoisard/library_technical_test  
+:arrow_forward: A fun project (WIP) to create a Restful API and play with PHP, Symfony, Docker and RabbitMQ => https://github.com/SebastienBoisard/eSign   
+:arrow_forward: A very simple project in PHP implemented during a technical interview => https://github.com/SebastienBoisard/library_technical_test  
 :arrow_forward: A small project in Golang to play with MongoDB and JsonRPC => https://github.com/SebastienBoisard/tamago  
 
 
