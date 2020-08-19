@@ -16,6 +16,7 @@ My linkedin: https://www.linkedin.com/in/sebastien-boisard/
 
 Some of my public projects:
 
+:arrow_forward: My new side-project (WIP) for creating a novel newsletter system (coded in Go) => https://github.com/SebastienBoisard/newsletters
 :arrow_forward: A quick tutorial on how to use **RabbitMQ** with Go => https://github.com/SebastienBoisard/rabbitmq_with_go_tutorial   
 :arrow_forward: A quick tutorial on how to use **Redis** with Go => https://github.com/SebastienBoisard/redis_with_go_tutorial   
 :arrow_forward: A fun project (WIP) to create a Restful API and play with PHP, Symfony, Docker and RabbitMQ => https://github.com/SebastienBoisard/eSign   
