@@ -1,7 +1,7 @@
 Hi, I'm Seb. :wave:  
 I'm a senior developer, tech leader at [GFPTech](https://www.gfpfrance.com/). 
 
-I'm actually looking for a new job with technical challenges.  
+I'm actually working at Ausha.co as a back-end developer.  
 My linkedin: https://www.linkedin.com/in/sebastien-boisard/
 
 
@@ -26,6 +26,6 @@ Some of my public projects:
 
 
 
-By the way, although I have some knowledge in front-end (with [VueJS](https://vuejs.org/) and [TailWindCSS](https://tailwindcss.com/)), I prefer :pray: to work on back-end projects. 
+By the way, although I have some knowledge in front-end (with [VueJS](https://vuejs.org/), [Svelte](https://svelte.dev/) and [TailWindCSS](https://tailwindcss.com/)), I prefer to work on back-end projects. :pray:  
 
 My current bedside book is ['Building Microservices'](https://www.oreilly.com/library/view/building-microservices/9781491950340/) from Sam Newman :+1: 
