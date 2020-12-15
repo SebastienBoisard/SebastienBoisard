@@ -1,7 +1,6 @@
 Hi, I'm Seb. :wave:  
-I'm a senior developer, tech leader at [GFPTech](https://www.gfpfrance.com/). 
+I'm a senior computer scientist, back-end developer at [Ausha](https://www.ausha.co/). 
 
-I'm actually working at Ausha.co as a back-end developer.  
 My linkedin: https://www.linkedin.com/in/sebastien-boisard/
 
 
