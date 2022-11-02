@@ -5,12 +5,11 @@ My linkedin: https://www.linkedin.com/in/sebastien-boisard/
 
 
   - I love Go :heart:  
-  - I work every day with PHP :factory:   
-  - but I can also code in Python, Javascript/Typescript and C :wink: 
+  - but I can also code in Python, PHP and C :wink: 
   - I'm passionate about distributed systems (microservice and/or event-drive architecture, scalabilty, security, monitoring, control and documentation)  
   - I practice team managment, agility, synchronous and asynchronous communication and many other soft skills
   - I know some tools :hammer_and_wrench: like docker, gitlab, jenkins, mysql, mongodb, redis, rabbitmq... 
-  - and I'm planning to learn Rust this year :rocket:
+  - and I'm learning Rust :rocket:
 
 
 Some of my public projects:
