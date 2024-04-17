@@ -4,11 +4,11 @@ I'm a senior computer scientist, back-end developer at [Ausha](https://www.ausha
 My linkedin: https://www.linkedin.com/in/sebastien-boisard/
 
 
-  - I love Go :heart:  
+  - I love Go and Rust :heart:  
   - but I can also code in Python :wink: 
   - I'm passionate about distributed systems (microservice and/or event-drive architecture, scalabilty, security, monitoring, control and documentation)  
   - I practice team managment, agility, synchronous and asynchronous communication and many other soft skills
-  - I know some tools :hammer_and_wrench: like docker, gitlab, jenkins, mysql, mongodb, redis, rabbitmq... 
+  - I know some tools :hammer_and_wrench: like Docker, Kubernetes, Gitlab, MySQL, Postgres, MongoDB, Redis, RabbitMQ... 
 
 
 Some of my public projects:
